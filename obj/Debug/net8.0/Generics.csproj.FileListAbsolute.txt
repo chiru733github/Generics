@@ -1,0 +1,14 @@
+C:\Users\pagad\source\repos\Problems\Generics\bin\Debug\net8.0\Generics.exe
+C:\Users\pagad\source\repos\Problems\Generics\bin\Debug\net8.0\Generics.deps.json
+C:\Users\pagad\source\repos\Problems\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+C:\Users\pagad\source\repos\Problems\Generics\bin\Debug\net8.0\Generics.dll
+C:\Users\pagad\source\repos\Problems\Generics\bin\Debug\net8.0\Generics.pdb
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\Generics.dll
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\refint\Generics.dll
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\Generics.pdb
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+C:\Users\pagad\source\repos\Problems\Generics\obj\Debug\net8.0\ref\Generics.dll
